@@ -1,7 +1,7 @@
 name:                safe-coerce
-version:             0.1.0.0
--- synopsis:
--- description:
+version:             0.2.0.0
+synopsis:            A friendly shorthand for an old friend
+description:         Safe?
 license:             BSD3
 license-file:        LICENSE
 author:              Csongor Kiss
